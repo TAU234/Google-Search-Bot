@@ -11,9 +11,9 @@ API = "https://api.abirhasan.wtf/google?query="
 
 Bot = Client(
     "Google-Search-Bot",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+    bot_token = os.environ["5231048055:AAEfM9oinzzhIOIMK6chzGbGb9qTjSDaVMQ"],
+    api_id = int(os.environ["19284139"]),
+    api_hash = os.environ["99cff118103e4c4163d643bc27d0a887"]
 )
 
 
